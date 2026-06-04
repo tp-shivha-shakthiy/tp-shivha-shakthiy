@@ -4,27 +4,83 @@
 </p>
 
 <p align="center">
-  <b>AI/ML • Cybersecurity • Full Stack Developer • Problem Solver</b>
+  <b>AI/ML • Cybersecurity • Full Stack Developer • Systems Thinker</b>
 </p>
 
 ---
 
 ## ⚡ About Me
 
-- 🎓 B.Tech CSE student at **IIIT Kottayam**
-- 🛡 Working on **AI-driven cybersecurity & safety systems**
-- 🤖 Building real-world AI systems like **Vanta AI**
-- 🔬 Focused on **IDS pipelines, deep learning, and applied ML systems**
-- 🚀 Passionate about turning research → production-grade systems
+- 🎓 B.Tech Computer Science & Engineering student at **IIIT Kottayam**
+- 🛡 Focused on **AI-driven cybersecurity systems & real-world ML pipelines**
+- 🤖 Building applied AI systems like **Vanta AI (Safety + Legal + Mental Health assistant)**
+- 🔬 Interested in **Intrusion Detection Systems, Deep Learning, and Applied ML**
+- 🚀 Passionate about turning research → deployable systems
 
 ---
 
 ## 🧠 Current Work
 
-- 🛡 Intrusion Detection System (IDS) using ML + DL pipelines  
-- 🤖 Vanta AI — Safety + legal + mental health AI assistant  
-- 📊 Experimenting with BiLSTM, Random Forest, PCA, SMOTE pipelines  
-- 🔍 Exploring adversarial ML & deepfake detection systems  
+- 🛡 Intrusion Detection System (IDS) using ML + DL pipelines
+- 🤖 Vanta AI — multi-module AI safety system
+- 📊 ML pipeline engineering: preprocessing → feature selection → PCA → SMOTE → modeling
+- 🔍 Exploring deepfake detection & adversarial ML robustness
+
+---
+
+## 📌 Impact & Engineering Focus
+
+### 🧠 What I Build (Beyond Projects)
+
+- Security-first ML systems for real-world attack detection
+- LLM-powered systems for safety, legal automation, and mental health support
+- End-to-end ML pipelines from raw data → trained models → evaluation
+- Hybrid systems combining classical ML + deep learning + LLMs
+
+---
+
+### 📈 Engineering Impact Areas
+
+#### 🛡 Cybersecurity & ML Systems
+- Built full **Intrusion Detection System (IDS) pipeline**
+- Designed ML workflow:
+  preprocessing → Mutual Information → PCA → SMOTE → modeling
+- Implemented:
+  - Random Forest, Logistic Regression
+  - BiLSTM for sequential attack patterns
+- Supports binary + multiclass classification of network attacks
+
+#### 🤖 AI Safety System (Vanta AI)
+- Designed modular AI safety platform for real-world usage
+- Features:
+  - Harassment detection
+  - Deepfake detection
+  - Silent SOS emergency system
+  - Automated legal complaint generation (FIR-style)
+  - Mental health chatbot assistant
+- Uses local LLMs (Phi-3 via Ollama) → privacy-preserving architecture
+- Built for real-world safety, not demo-level AI
+
+---
+
+### 🧩 Engineering Strengths
+
+- Strong ML pipeline design (not just model training)
+- Systems thinking across AI + cybersecurity + social impact
+- Experience bridging research papers → implementation
+- Handles real-world dataset challenges (imbalance, noise, features)
+- Builds modular, scalable AI components
+
+---
+
+### 🎯 Recruiter Takeaway
+
+This profile demonstrates ability to:
+- Build production-style ML pipelines
+- Work on cybersecurity and anomaly detection problems
+- Integrate LLMs into real systems
+- Handle full ML lifecycle (data → model → evaluation)
+- Design systems with real-world constraints
 
 ---
 
@@ -38,7 +94,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🌐 Frontend / Backend
+### 🌐 Web Development
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
@@ -65,24 +121,27 @@
 ## 🚀 Featured Projects
 
 ### 🛡 Vanta AI
-> AI-powered safety ecosystem for digital protection
+AI-powered safety system combining security, legal automation, and mental health support.
 
 - Harassment detection system  
 - Deepfake detection module  
-- Silent SOS emergency feature  
-- Legal complaint generator (FIR-style automation)  
-- Lawyer + NGO directory  
-- Mental health support chatbot  
-- Built with local LLMs (Phi-3 via Ollama)
+- Silent SOS emergency response system  
+- Automated legal complaint generator (FIR-style structure)  
+- Lawyer + NGO directory integration  
+- Mental health chatbot assistant  
+- Built using local LLMs (Phi-3 via Ollama)
 
 ---
 
-### 📊 IDS Pipeline (Cybersecurity ML System)
-- Feature engineering: MI + encoding + normalization  
+### 📊 Intrusion Detection System (IDS Pipeline)
+End-to-end cybersecurity ML system:
+
+- Feature engineering: encoding, normalization, log transforms  
+- Feature selection: Mutual Information  
 - Dimensionality reduction: PCA  
-- Imbalance handling: SMOTE  
+- Class imbalance handling: SMOTE  
 - Models: Random Forest, Logistic Regression, BiLSTM  
-- Outputs: Binary + multiclass attack classification  
+- Outputs: binary + multiclass attack classification  
 
 ---
 
@@ -105,10 +164,10 @@
 ## 🧭 Connect With Me
 
 <p>
-  <a href="mailto:tpshivhashakthiyy@gmail.com">
+  <a href="mailto:shivhshakthiy@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/tp-shivha-s">
+  <a href="https://github.com/shivhshakthiy">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com">
@@ -118,7 +177,7 @@
 
 ---
 
-<!-- 🚀 Footer Animation -->
+<!-- 🚀 Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>

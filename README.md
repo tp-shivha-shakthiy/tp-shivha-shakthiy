@@ -16,8 +16,6 @@ Computer Science Student @ IIIT Kottayam
   <img src="https://img.shields.io/badge/Full Stack Development-F59E0B?style=for-the-badge" />
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 ```bash
@@ -36,89 +34,22 @@ Interests:
 Learning by building, experimenting,and understanding how ideas become software.
 ```
 
----
-
-## 🚧 Current Focus
-
-```bash
-$ current_focus
-
-[01] Intrusion Detection Systems (IDS)
-
-[02] Visible–Infrared Person Re-Identification
-
-[03] Applied AI Systems
-```
-
----
-
 ## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,c" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-</p>
-
-### ML / AI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,linux,vercel" />
-</p>
-
----
-
-## 📌 A Few Things About Me
-
-```txt
-• Interested in building software that solves real problems
-
-• Enjoy exploring the intersection of machine learning and software engineering
-
-• Prefer learning through projects and experimentation
-
-• Currently working on IDS and Visible–Infrared ReID
-```
-
----
+Languages
+<p> <img src="https://skillicons.dev/icons?i=python,cpp,java,js,c" /> </p>
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,html,css" /> </p>
+Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,php" /> </p>
+ML / AI
+<p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /> </p> <p> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" /> </p>
+Databases
+<p> <img src="https://skillicons.dev/icons?i=mysql" /> </p>
+Tools
+<p> <img src="https://skillicons.dev/icons?i=git,linux,vercel" /> </p>
 
 ## 📫 Connect
 
+- **[Portfolio](https://my-portfolio-beta-one-95.vercel.app)**
 - **[Email](tpshivhshakthiyy@gmail.com)**
-- **[GitHub](https://www.github.com/tp-shivha-s)**
 - **[LinkedIn](https://www.linkedin.com/in/t-p-shivha-shakthiy-801723346/)**
-
----
-
-```txt
-STATUS: Learning • Building • Improving
-```

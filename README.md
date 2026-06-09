@@ -23,24 +23,25 @@ CS undergraduate interested in machine learning systems, software engineering, a
 
 ### 📂 Projects
 
-#### [Vanta AI](https://github.com/tp-shivha-shakthiy/VantaAI) 
-AI-driven digital safety platform for victims of online harm.
-Includes a conversational safety assistant, legal complaint generator, takedown tools, and NGO directory.
-`React` `Node.js` `Ollama` `Phi-3`
-
 #### [Intrusion Detection System](https://github.com/tp-shivha-shakthiy/Intrusion-Detection-System) · *active*
 Bi-LSTM on UNSW-NB15 · 99.04% binary acc across 2.54M records and 10 attack classes.
 Focus: handling class imbalance and improving detection of rare attacks.
 `PyTorch` `XGBoost` `scikit-learn` `imbalanced-learn`
 
-#### Visible–Infrared Person Re-ID · *active*
+#### [Visible–Infrared Person Re-ID](https://github.com/tp-shivha-shakthiy/sthf-vi-reid) · *active*
 Implementing ST-HF for cross-modal video matching across visible and infrared streams.
 Focus: spatial-temporal feature learning for identity matching under modality shift.
 `PyTorch` `ResNet-50`
 
-#### SkillTwin · *designing*
-AI digital twin for learning and career growth.
-Event-driven skill graph, knowledge tracing, mastery prediction, and LLM-powered mentoring.
+#### [Vanta AI](https://github.com/tp-shivha-shakthiy/VantaAI) 
+AI-driven digital safety platform for victims of online harm.
+Includes a conversational safety assistant, legal complaint generator, takedown tools, and NGO directory.
+`React` `Node.js` `Ollama` `Phi-3`
+
+
+#### Mosaic · *designing*
+AI-powered digital twin built from every piece of a learner's journey.
+Uses event-driven skill modeling, knowledge tracing, and AI-powered personalization.
 `FastAPI` `React` `PostgreSQL` `Neo4j`
 
 ### 🛠️ Tech Stack
@@ -59,4 +60,6 @@ Event-driven skill graph, knowledge tracing, mastery prediction, and LLM-powered
 
 ### 📫 Connect
 
-**[Portfolio](https://my-portfolio-beta-one-95.vercel.app)** · **[Email](mailto:tpshivhshakthiyy@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/t-p-shivha-shakthiy-801723346/)**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel)](https://my-portfolio-beta-one-95.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tpshivhshakthiyy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t-p-shivha-shakthiy-801723346/)

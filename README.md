@@ -1,44 +1,125 @@
-# T P Shivha Shakthiy
+@@ -1,23 +1,21 @@
+<h1 align="center">Hi , I'm T P Shivha Shakthiy 👋</h1>
 
-B.Tech CSE (AI & Data Science) · IIIT Kottayam · 2nd year
+<h3 align="center">
+Computer Science Student @ IIIT Kottayam
+</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&lines=Enjoys+turning+ideas+into+software;Learning+by+building+and+experimenting"alt="Typing SVG" />
+</p>
 
-### What I'm working on
-
-**Spatial-Temporal High-Frequency Learning for Video-based Visible-Infrared Person Re-ID**
-Implementing ST-HF for cross-modal person re-identification — matching identities across visible and infrared video streams using spatial-temporal high-frequency feature learning. Currently reproducing results and running experiments on benchmark datasets.
-
-`PyTorch` `ResNet-50` `Computer Vision` `Cross-Modal Retrieval`
-
----
-
-### Projects
-
-**[Intrusion Detection System](https://github.com/tp-shivha-shakthiy/Intrusion-Detection-System)**
-Implementation and extension of [Kasina et al., Information Sciences 2026](https://doi.org/10.1016/j.ins.2026.123208) on UNSW-NB15 — 2.54M network traffic records, 10 attack classes, with Worms appearing only 174 times. Compared 7 architectures (HGB, XGBoost, Logistic Regression, DNN, LSTM, Bi-LSTM, 1D-CNN) under a unified preprocessing pipeline.
-
-Best result: Bi-LSTM at **0.9904 binary accuracy / 0.9808 multi-class accuracy**. Macro F1 sits 0.37–0.49 — the honest number, and the one the next experiment targets.
-
-`PyTorch` `XGBoost` `scikit-learn` `imbalanced-learn`
-
-**[VantaAI](https://github.com/tp-shivha-shakthiy/VantaAI)**
-AI-powered digital safety platform for victims of online harm — conversational safety assistant (Ollama/Phi-3), legal complaint generator, know-your-rights hub, instant takedown tool, lawyer and NGO directory, and emotional community support.
-
-`React` `Node.js` `Ollama` `Phi-3`
+<p align="center">
+  <img src="https://img.shields.io/badge/IIIT Kottayam-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine Learning-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software Engineering-0123?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Applied AI-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full Stack Development-F59E0B?style=for-the-badge" />
+</p>
 
 ---
 
-### Stack
+## 👨‍💻 About Me
 
-**ML** — Python · PyTorch · TensorFlow · scikit-learn · XGBoost · pandas · numpy
-
-**Web** — React · Node.js · Express · JavaScript
-
-**Tools** — Git · Linux · MySQL
+```bash
+Learning by building, experimenting,and understanding how ideas become software.
+```
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t-p-shivha-shakthiy-801723346/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://my-portfolio-beta-one-95.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tpshivhshakthiyy@gmail.com)
+## 🚧 Current Focus
+
+```bash
+$ current_focus
+
+[01] Intrusion Detection Systems (IDS)
+
+[02] Visible–Infrared Person Re-Identification
+
+[03] Applied AI Systems
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,c" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
+
+### ML / AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,vercel" />
+</p>
+
+---
+
+## 📌 A Few Things About Me
+
+```txt
+• Interested in building software that solves real problems
+
+• Enjoy exploring the intersection of machine learning and software engineering
+
+• Prefer learning through projects and experimentation
+
+• Currently working on IDS and Visible–Infrared ReID
+```
+
+---
+Languages
+<p> <img src="https://skillicons.dev/icons?i=python,cpp,java,js,c" /> </p>
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,html,css" /> </p>
+Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,php" /> </p>
+ML / AI
+<p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /> </p> <p> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" /> </p>
+Databases
+<p> <img src="https://skillicons.dev/icons?i=mysql" /> </p>
+Tools
+<p> <img src="https://skillicons.dev/icons?i=git,linux,vercel" /> </p>
+
+## 📫 Connect
+
+- **[Portfolio](https://my-portfolio-beta-one-95.vercel.app)**
+- **[Email](tpshivhshakthiyy@gmail.com)**
+- **[LinkedIn](https://www.linkedin.com/in/t-p-shivha-shakthiy-801723346/)**
+
+---
+
+```txt
+STATUS: Learning • Building • Improving
+```

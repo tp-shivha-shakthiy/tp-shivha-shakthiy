@@ -1,4 +1,3 @@
-@@ -1,23 +1,21 @@
 <h1 align="center">Hi , I'm T P Shivha Shakthiy 👋</h1>
 
 <h3 align="center">

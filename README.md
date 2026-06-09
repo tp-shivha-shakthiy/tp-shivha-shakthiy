@@ -29,12 +29,6 @@ AI-powered digital safety platform for victims of online harm — conversational
 
 ---
 
-### Next
-
-Running ST-HF experiments. Building an adaptive learning platform with mastery prediction, knowledge tracing, and personalized recommendations.
-
----
-
 ### Stack
 
 **ML** — Python · PyTorch · TensorFlow · scikit-learn · XGBoost · pandas · numpy

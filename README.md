@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm T P Shivha Shakthiy 👋</h1>
+<h1 align="center">Hi, I'm T P Shivha Shakthiy </h1>
 
 <h4 align="center">
 CS Student @ IIIT Kottayam · Machine Learning · Software Engineering · Full-Stack Development
@@ -38,12 +38,6 @@ AI-driven digital safety platform for victims of online harm.
 Includes a conversational safety assistant, legal complaint generator, takedown tools, and NGO directory.
 `React` `Node.js` `Ollama` `Phi-3`
 
-
-#### Mosaic · *designing*
-AI-powered digital twin built from every piece of a learner's journey.
-Uses event-driven skill modeling, knowledge tracing, and AI-powered personalization.
-`FastAPI` `React` `PostgreSQL` `Neo4j`
-
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -60,6 +54,6 @@ Uses event-driven skill modeling, knowledge tracing, and AI-powered personalizat
 
 ### 📫 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel)](https://my-portfolio-beta-one-95.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel)](https://tp-shivha-shakthiy.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tpshivhshakthiyy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t-p-shivha-shakthiy-801723346/)

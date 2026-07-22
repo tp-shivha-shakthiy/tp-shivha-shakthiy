@@ -32,7 +32,7 @@ CS undergraduate at IIIT Kottayam (B.Tech AI & Data Science, Batch of 2028) with
 
 ### 📂 Projects
 
-#### [NeuroBridge – Neuro-Inclusive Health Assistance Platform]([https://github.com/tp-shivha-shakthiy/NeuroBridge](https://github.com/Civora-Forge/NeuroBridge)) · *active*
+#### [NeuroBridge – Neuro-Inclusive Health Assistance Platform](https://github.com/Civora-Forge/NeuroBridge) · *active*
 
 Neuro-inclusive health-assistance web application providing accessible, personalized support modules for individuals with diverse cognitive and learning needs. Supports role-based access for users, guardians, and support personnel, with adaptive onboarding and disorder-specific toolkits across OCD, ADHD, Dyslexia, Dyscalculia, Dyspraxia, ASD, Anxiety, Depression, and APD.
 

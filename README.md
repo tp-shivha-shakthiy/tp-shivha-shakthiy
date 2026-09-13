@@ -28,7 +28,7 @@ CS undergraduate at IIIT Kottayam (B.Tech AI & Data Science, Batch of 2028) with
 `dataset → model → evaluation → deployment`
 
 * 🌱 **Currently obsessed with:** why my Bi-LSTM confidently calls everything "normal traffic" at 3am and nowhere else
-* 🏆 Runner-Up @ Girlathon 2025 · Top 10 @ She Builds Tech 2.0, KSUM (2026) .  Participant @ Google DeepMind Hackathon
+* 🏆 1st Runner-Up @ Girlathon 4.0 . Runner-Up @ Girlathon 2025 · Top 10 @ She Builds Tech 2.0, KSUM (2026) .  Participant @ Google DeepMind Hackathon
 * 🤝 Google Student Ambassador (2026) · Research Core @ Enigma, IIIT Kottayam · GSSoC 2026 Contributor
 * 💬 Open to: research collaborations, internships, and open-source contributions
 
@@ -37,9 +37,8 @@ CS undergraduate at IIIT Kottayam (B.Tech AI & Data Science, Batch of 2028) with
 ### 📂 Projects
 
 #### [NeuroBridge – Neuro-Inclusive Health Assistance Platform](https://github.com/Civora-Forge/NeuroBridge)
-🟢 *active — this week: refining the adaptive engine*
-
-Neuro-inclusive health-assistance web application providing accessible, personalized support modules for individuals with diverse cognitive and learning needs. Supports role-based access for users, guardians, and support personnel, with adaptive onboarding and disorder-specific toolkits across OCD, ADHD, Dyslexia, Dyscalculia, Dyspraxia, ASD, Anxiety, Depression, and APD.
+✅ completed
+Neuro-inclusive health-assistance web application providing accessible, personalized support modules for individuals with diverse cognitive and learning needs. Supports role-based access for users, guardians, and support personnel, with adaptive onboarding and disorder-specific toolkits across OCD, ADHD, Dyslexia, ASD, Anxiety and  Depression.
 
 `React` `TypeScript` `FastAPI` `Python` `PostgreSQL` `REST APIs`
 

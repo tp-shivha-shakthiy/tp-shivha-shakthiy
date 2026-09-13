@@ -37,7 +37,9 @@ CS undergraduate at IIIT Kottayam (B.Tech AI & Data Science, Batch of 2028) with
 ### 📂 Projects
 
 #### [NeuroBridge – Neuro-Inclusive Health Assistance Platform](https://github.com/Civora-Forge/NeuroBridge)
-✅ completed
+🏆 *Runner-Up @ Girlathon 4.0*
+
+
 Neuro-inclusive health-assistance web application providing accessible, personalized support modules for individuals with diverse cognitive and learning needs. Supports role-based access for users, guardians, and support personnel, with adaptive onboarding and disorder-specific toolkits across OCD, ADHD, Dyslexia, ASD, Anxiety and  Depression.
 
 `React` `TypeScript` `FastAPI` `Python` `PostgreSQL` `REST APIs`

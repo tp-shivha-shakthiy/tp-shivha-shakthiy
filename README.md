@@ -89,6 +89,18 @@ A neuro-inclusive platform that adapts to what a user needs in the moment. 🏆 
 **ML/AI:** PyTorch, XGBoost, scikit-learn, OpenCV, imbalanced-learn<br>
 **Tools:** Git, Docker, Linux
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tp-shivha-shakthiy&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tp-shivha-shakthiy&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tp-shivha-shakthiy&theme=tokyonight&hide_border=true" />
+</p>
+
 ## 📫 Say hi
 
 🌐 [Portfolio](https://tp-shivha-shakthiy.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/t-p-shivha-shakthiy-801723346/) · 📧 [Email](mailto:tpshivhashakthiyy@gmail.com)

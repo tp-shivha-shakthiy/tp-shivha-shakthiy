@@ -91,4 +91,4 @@ A neuro-inclusive platform that adapts to what a user needs in the moment. 🏆 
 
 ## 📫 Say hi
 
-🌐 [Portfolio](https://tp-shivha-shakthiy.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/t-p-shivha-shakthiy-801723346/) · 📧 [Email](mailto:tpshivhshakthiyy@gmail.com)
+🌐 [Portfolio](https://tp-shivha-shakthiy.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/t-p-shivha-shakthiy-801723346/) · 📧 [Email](mailto:tpshivhashakthiyy@gmail.com)
